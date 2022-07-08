@@ -38,7 +38,7 @@ body {
   padding: 0.5rem 1rem;
   font-size: 1rem;
   border-radius: 1rem;
-  background-color: #OC4160;
-  color: #fff;
+  background: #OC4160;
+  color: #2a2a2a;
   cursor: pointer;
 }
